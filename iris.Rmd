@@ -41,7 +41,7 @@ columns are `r c1`
 ### Data visualisation
 
 ```r
-plot(iris, col= names(iris)
+plot(iris, col=c(1,2,3))
 
 ```
 

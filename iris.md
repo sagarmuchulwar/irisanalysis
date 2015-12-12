@@ -66,13 +66,13 @@ c1 = ncol(iris)
 ```
 
 ### Numbers of rows and columns
-Rows are 150
-columns are 5
+Rows are 150 '/n'
+Columns are 5
 
 ### Data visualisation
 
 ```r
-plot(iris, col= names(iris)
+plot(iris, col=c(1,2,3))
 
 ```
 

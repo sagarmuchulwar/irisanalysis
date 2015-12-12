@@ -35,8 +35,8 @@ c1 = ncol(iris)
 ```
 
 ### Numbers of rows and columns
-Rows are `r r1`
-columns are `r c1`
+Rows are `r r1` '/n'
+Columns are `r c1`
 
 ### Data visualisation
 

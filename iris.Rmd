@@ -40,7 +40,7 @@ Columns are `r c1`
 
 ### Data visualisation
 
-```r
+```{r}
 plot(iris, col=c(1,2,3))
 
 ```

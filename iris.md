@@ -71,8 +71,10 @@ Columns are 5
 
 ### Data visualisation
 
+
 ```r
 plot(iris, col=c(1,2,3))
-
 ```
+
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3-1.png) 
 
